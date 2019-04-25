@@ -1,0 +1,19 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "hari ke 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modern",
+    "javascript"
+  ],
+  "author": "akbar",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.22",
+    "superagent": "^5.0.2"
+  }
+}
